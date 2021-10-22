@@ -1,0 +1,61 @@
+body{
+    background-color: #457b9d;
+    color: #1d3557;
+}
+caption{
+    color: #f1faee;
+    font-size: 25pt;
+    margin: 10pt;
+}
+legend{
+    font-size: 16pt;
+    font-weight: 600;
+}
+table{
+    background-color: #f1faee;
+    font-family: sans-serif;
+    font-size: 14pt;
+    margin: auto;
+    border: 0px solid #000000;
+}
+fieldset{
+    width: 800px;
+}
+tr{
+    text-align: center;
+}
+td{
+    width: 150px;
+}
+textarea{
+    width: 600px;
+    font-family: sans-serif;
+    font-size: 14pt;
+    color: #1d3557;
+    height: 80px;
+    resize: none;
+}
+input{
+    width: 300px;
+    font-family: sans-serif;
+    font-size: 14pt;
+    color: #1d3557;
+}
+.date{
+    width: 150px;
+}
+.time{
+    width: 150px;
+}
+.submit{
+    width: 200px;
+    height: 40px;
+    background-color: #457b9d;
+    color: #f1faee;
+    font-size: 14pt;
+    font-weight: 600;
+    border: 0px solid #000000;
+}
+.error{
+    color: #e63946;
+}
